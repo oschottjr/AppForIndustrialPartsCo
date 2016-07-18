@@ -1,0 +1,13 @@
+{
+  "appname": "AppForIndustrialPartsCo",
+  "ocscope": "FullAccess",
+  "clientid": "BCB06B08-B0B1-4355-8B6B-42D37EDC3462",
+  "buyerid": "IndustrialPartsCo",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
